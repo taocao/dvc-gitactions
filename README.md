@@ -39,8 +39,7 @@ Setup your credentials on ```~/.aws/credentials``` and ```~/.aws/config```. DVC 
 aws_access_key_id = {{Key ID}}
 aws_secret_access_key = {{Access Key}}
 ```
-
-
+## local test
 ### ✅ Pre-commit Testings
 
 In order to activate pre-commit testing you need ```pre-commit```
